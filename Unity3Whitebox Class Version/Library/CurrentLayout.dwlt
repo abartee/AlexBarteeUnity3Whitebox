@@ -160,7 +160,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 112
+  controlID: 51
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,8 +205,8 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 416
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -349,12 +349,13 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\u1157967\Documents\AlexBarteeUnity3Whitebox\Unity3Whitebox
+    Class Version
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4e310000
-    m_LastClickedID: 12622
-    m_ExpandedIDs: 000000004e3100005a310000a63100004e3200006a32000000ca9a3bffffff7f
+    m_SelectedIDs: d8270000
+    m_LastClickedID: 10200
+    m_ExpandedIDs: 00000000d8270000ea2700007a280000ae290000e229000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -382,7 +383,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e3100005a310000a63100004e3200006a320000
+    m_ExpandedIDs: 00000000d8270000ea2700007a280000ae290000e2290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -547,9 +548,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -16.932156, y: -88.80645, z: 108.58573}
+    m_Target: {x: 0.5104061, y: 4.9892917, z: 2.1320803}
     speed: 2
-    m_Value: {x: -16.932156, y: -88.80645, z: 108.58573}
+    m_Value: {x: 0.5104061, y: 4.9892917, z: 2.1320803}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -573,13 +574,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.25207937, y: -0.3093276, z: 0.08541101, w: -0.91294986}
+    m_Target: {x: -0.12068315, y: 0.81711257, z: -0.18521722, w: -0.53240705}
     speed: 2
-    m_Value: {x: -0.25207937, y: -0.3093276, z: 0.08541101, w: -0.91294986}
+    m_Value: {x: -0.12068315, y: 0.81711257, z: -0.18521722, w: -0.53240705}
   m_Size:
-    m_Target: 111.586075
+    m_Target: 79.3272
     speed: 2
-    m_Value: 111.586075
+    m_Value: 79.3272
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -622,7 +623,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9eddffff00000000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
