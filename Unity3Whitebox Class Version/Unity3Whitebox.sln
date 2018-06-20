@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity3Whitebox.Plugins", "Unity3Whitebox.Plugins.csproj", "{74261EB8-04AA-3499-34D4-2DD33D303C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity3Whitebox.Editor.Plugins", "Unity3Whitebox.Editor.Plugins.csproj", "{C66720EC-BE49-19EE-9638-2584AE32C68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74261EB8-04AA-3499-34D4-2DD33D303C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74261EB8-04AA-3499-34D4-2DD33D303C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74261EB8-04AA-3499-34D4-2DD33D303C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74261EB8-04AA-3499-34D4-2DD33D303C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66720EC-BE49-19EE-9638-2584AE32C68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66720EC-BE49-19EE-9638-2584AE32C68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66720EC-BE49-19EE-9638-2584AE32C68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66720EC-BE49-19EE-9638-2584AE32C68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
